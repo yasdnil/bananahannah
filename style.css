@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(255, 182, 193);
+    margin: 20px;
+    font-size: 20px;
+    height:500vh;
+    position: relative;
+    text-align: center; 
+}
+
+img{
+    width:500px;
+}
+
+/* .nav-item{
+    text-align: center;
+} */
+@keyframes banana{
+from{background-color :#fff2b4;
+}
+to{
+    background-color: #ffc0b4;
+   }
+}
+
+body{
+    background-color: #fff2b4;
+    animation-name:banana;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
