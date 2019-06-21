@@ -6,11 +6,9 @@ body{
     position: relative;
     text-align: center; 
 }
-
 img{
     width:500px;
 }
-
 /* .nav-item{
     text-align: center;
 } */
@@ -28,4 +26,10 @@ body{
     animation-duration: 4s;
     animation-iteration-count: infinite;
 }
+h1{
+    font-family: 'Kurale', serif;
+}
+.description{
+    font-family: 'Cutive Mono', monospace;
 
+}
